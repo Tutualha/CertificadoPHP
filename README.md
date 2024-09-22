@@ -16,5 +16,5 @@ Este repositório contém meu certificado de conclusão do curso **PHP para Inic
 - Desenvolvimento de aplicações web dinâmicas
 
 ## Visualizar Certificado:
-[Clique aqui](https://github.com/Tutualha/Certificados/blob/69788be20628765951a9ba965d11a48551a1b512/Arthur-Borges-Miranda-PHP-Basico-40-Horas-Certificado-Curso-em-Video.pdf)) para visualizar o certificado.
+([Clique aqui](https://github.com/Tutualha/Certificados/blob/69788be20628765951a9ba965d11a48551a1b512/Arthur-Borges-Miranda-PHP-Basico-40-Horas-Certificado-Curso-em-Video.pdf)) para visualizar o certificado.
 
